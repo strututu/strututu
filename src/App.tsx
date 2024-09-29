@@ -15,7 +15,7 @@ const routes = createBrowserRouter(
 
 const App = () => {
   useEffect(() => {
-    document.title = "Strutu";
+    document.title = "Strututu";
     AOS.init();
   }, []);
   return <RouterProvider router={routes} />;
