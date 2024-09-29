@@ -10,7 +10,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 const routes = createBrowserRouter(
-  createRoutesFromElements(<Route path="/" element={<RootLayout />} />)
+  createRoutesFromElements(<Route path="/strututu" element={<RootLayout />} />)
 );
 
 const App = () => {
